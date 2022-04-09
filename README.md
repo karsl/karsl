@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Kaan Arslan, a passionate software engineer who
+I'm Kaan Arslan, a passionate software engineer.
 
 - 🌱 I'm currently learning microservices, DDD, EDD, Golang...
 - 🔭 I'm interested in
